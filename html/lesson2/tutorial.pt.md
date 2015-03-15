@@ -28,7 +28,6 @@ Nós vamos aplicar estilos a [esta página](http://github.com/codebar/tutorials/
 
 ## Mas antes de começarmos...
 
-> The first tutorial does not prepare you for this exercise. Before you continue, download the provided files.
 > O primeiro tutorial não te prepara para este exercício. Antes de continuar, faça download dos arquivos necessários. 
 
 
@@ -82,7 +81,7 @@ No cabeçalho - *head* - da página HTML defina uma tag style (tag para escrita 
 </head>
 ```
 
-Inclua o estilo descrito abaixo, dentro da tag style que definimos.
+Inclua o estilo descrito abaixo dentro da tag style que definimos.
 
 ## Introdução ao seletor
 
@@ -98,7 +97,7 @@ body {
 }
 ```
 
-Ao selecionarmos o elemento **body**, a alteração de fonte será aplicada a tudo aninhado dentro dele, todo o conteúdo da nossa página.
+Ao selecionarmos o elemento **body** a alteração de fonte será aplicada a tudo aninhado dentro dele, todo o conteúdo da nossa página.
 
 Vamos também remover os pontos dos items das listas que definimos
 
